@@ -142,7 +142,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin: 0;
   list-style: none;
   display: inline;
-  text-transform: uppercase;
+  text-transform: capitalize;
   letter-spacing: 1px;
   font-weight: 600;
 }
