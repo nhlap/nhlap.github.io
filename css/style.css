@@ -142,8 +142,8 @@ h1, h2, h3, h4, h5, h6, figure {
   margin: 0;
   list-style: none;
   display: inline;
-  text-transform: capitalize;
-  letter-spacing: 1px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
   font-weight: 600;
 }
 .fh5co-nav ul li a {
