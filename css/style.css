@@ -1004,7 +1004,7 @@ input[type="text"] {
   text-decoration: underline;
 }
 #fh5co-footer h4 {
-  margin-bottom: 15px;
+  margin-bottom: 5px;
   font-weight: 700;
   font-size: 13px;
   letter-spacing: 1px;
@@ -1012,7 +1012,7 @@ input[type="text"] {
 }
 #fh5co-footer .copyright {
   display: block;
-  margin-top: 3em;
+  margin-top: 0;
 }
 #fh5co-footer .copyright .block {
   display: block;
