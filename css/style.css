@@ -828,20 +828,20 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .blog-flex .blog-entry h2 {
   display: block;
-  font-size: 13px;
+  font-size: 16px;
   text-transform: uppercase;
   letter-spacing: 1px;
-  font-weight: 700;
+  font-weight: 800;
   margin-bottom: 40px;
   color: rgba(0, 0, 0, 0.4);
 }
 .blog-flex .blog-entry .blog-post {
-  margin-bottom: 2.5em;
+  margin-bottom: 20px;
   display: block;
   position: relative;
 }
 .blog-flex .blog-entry .blog-post .desc {
-  padding-left: 110px;
+  padding-left: 0;
 }
 .blog-flex .blog-entry .blog-post .desc h3 {
   font-weight: 300;
