@@ -1480,3 +1480,9 @@ input[type="text"] {
   background-clip: padding-box;
   padding: 20px;
 }
+
+.product-banner{
+  background: rgba(252, 252, 252, 0.7);
+  background-clip: padding-box;
+  padding: 20px;
+}
